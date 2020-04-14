@@ -1,3 +1,3 @@
 class Artist
-  def self.artist
+  self.Artist
 end
