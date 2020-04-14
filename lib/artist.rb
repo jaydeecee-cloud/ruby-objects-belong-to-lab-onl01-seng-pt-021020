@@ -1,2 +1,2 @@
-artist = Artist.new
+def artist = Artist.new
 end
